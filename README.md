@@ -9,7 +9,6 @@ Basic data validation and management
 
 -Tech Stack
 Programming Language: C++
-OOP (Object-Oriented Programming)
 
 
 -Purpose of the Project
